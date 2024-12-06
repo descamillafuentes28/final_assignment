@@ -4,7 +4,7 @@ This repository contains data, analytic code, and findings that support portions
 
 Data
 
-This analysis uses TKTKTK spreadsheets.
+This analysis uses CSV spreadsheets.
 
 The spreadsheets come from the following sources:
 
